@@ -1,0 +1,1 @@
+2025-03-08 22:48:54.755 wxauto.py[407] SendMsg -> Can not move cursor. EditControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Name: '消息自动发送', ControlType: EditControl}

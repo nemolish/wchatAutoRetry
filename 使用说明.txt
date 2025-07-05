@@ -1,0 +1,13 @@
+安装并配置python环境
+
+安装 wxauto，在cmd命令提示符窗口执行：pip install wxauto 
+
+用文本编辑器打开wchatAutoRetry.py
+
+修改第5行 target_name变量，输入需要监听的人的昵称或者群聊名称
+
+修改第8行 forward_name变量，输入消息转发接受人的昵称或者群聊名称
+
+保存后，启动微信桌面版(更新至最新版)
+
+双击startup.bat启动脚本
